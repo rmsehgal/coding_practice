@@ -1,0 +1,8 @@
+'''
+Coding exercise prompt:
+%s
+Date and time:
+%s
+Problem ID:
+%i
+'''
